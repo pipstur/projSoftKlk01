@@ -1,6 +1,7 @@
 # projSoftKlk01
 Vezba za prvi kolokvijum iz predmeta Projektovanje Softvera
 
+Izvinjavam se svima koji ovo gledaju na sizofrenim imenima al bilo mi je samo smesno da postoji gingula gungulic kao redovni profesor na nekom fakultetu
 # Prvi zahtev:
 ![image](https://github.com/pipstur/projSoftKlk01/assets/95634547/8898b41e-e6ad-4039-81e3-37aa0b7541a1)
 
